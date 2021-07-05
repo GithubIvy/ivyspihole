@@ -1,3 +1,5 @@
+# Add all of these to completely disable content delivery from Nintendo servers.
+
 ^sun.\hac.             # System updates. Use this if you want to prevent any possibility of the Switch OS being updated by others or the console
 ^aqua.\hac.            # Not sure all effects of Aqua, however updating games or software seems blocked. Use this if you want to prevent any possibility of games being updated by others or the console
 ^atum.\hac.            # Not sure what Atum delivers
