@@ -1,2 +1,0 @@
-# Copy the line below into your Regex list to enable it. This blocks the update servers, preventing system OS updates from completing.
-^sun.\hac.
