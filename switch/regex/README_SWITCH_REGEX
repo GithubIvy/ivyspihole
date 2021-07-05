@@ -1,0 +1,1 @@
+Almost every single Switch PiHole block on this repo is going to be in Regex due to the many variables included in the backend of how the Switch URLs work. To apply Regex blocks, go to Blacklist > Regex filter
