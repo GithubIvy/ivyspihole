@@ -1,5 +1,5 @@
-^sun.\hac.             # System updates
-^aqua.\hac.            # Not sure what Aqua delivers
+^sun.\hac.             # System updates. Use this if you want to prevent any possibility of the Switch OS being updated by others or the console
+^aqua.\hac.            # Not sure all effects of Aqua, however updating games or software seems blocked. Use this if you want to prevent any possibility of games being updated by others or the console
 ^atum.\hac.            # Not sure what Atum delivers
 ^atumn.\hac.           # Not sure what Atumn delivers
 ^atumn-dummy.\hac.     # Not sure what Atumn-Dummy delivers, probably not much due to the dummy name
