@@ -1,1 +1,5 @@
-Almost every single Switch PiHole block on this repo is going to be in Regex due to the many variables included in the backend of how the Switch URLs work. To apply Regex blocks, go to Blacklist > Regex filter
+Almost every single Switch PiHole block on this repo is going to be in Regex due to the many variables included in the backend of how the Switch URLs work. 
+To apply Regex blocks, go to Blacklist > Regex filter.
+
+If the effects do not take place on your Switch console after the change in your PiHole config, try making sure the DNS IP is set up properly.
+If it is, restart the console completely and it should flush the DNS enough for the effects to take place.
