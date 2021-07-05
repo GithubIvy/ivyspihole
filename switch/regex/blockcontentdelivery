@@ -1,0 +1,6 @@
+^sun.\hac.             # System updates
+^aqua.\hac.            # Not sure what Aqua delivers
+^atum.\hac.            # Not sure what Atum delivers
+^atumn.\hac.           # Not sure what Atumn delivers
+^atumn-dummy.\hac.     # Not sure what Atumn-Dummy delivers, probably not much due to the dummy name
+^superfly.\hac.        # Not sure what Superfly delivers
